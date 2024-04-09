@@ -1,0 +1,8 @@
+plot_servers = ["localhost:12345"]
+
+[[disk_farms]]
+directory = "/tmp/plot"
+allocated_plotting_space = "1500G"
+
+[[disk_farms]]
+directory = "/tmp/plot1"
